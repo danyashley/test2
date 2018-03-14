@@ -13,6 +13,8 @@ body{
 	
 	}
 	
+	#login{background-color:#87D998;}
+	
 #home #mypanelc{
 	
 	background-color:#FFB562;
@@ -33,6 +35,25 @@ body{
 		
 		}
 		
+		#login #headerz{
+			background-color:#FFF;
+			
+			}
+			
+			#registro{
+					background-color:#87D998;
+
+				
+				
+				}
+			
+			#registro #headerr{
+				
+				background-color:#FFF;
+				
+				
+				}
+		
 	#home #heade1c #burger{
 		
 		background-color:#FF7E27;
@@ -45,7 +66,7 @@ body{
 		
 		}
 		
-		#back, #back2, #back3, #back4{
+		#back, #back2, #back3, #back4, #back5{
 			background-color:#FF7E27;}
 		
 		
@@ -287,7 +308,7 @@ background-color:#87D998;
 				}
 				
 				.esto{
-					margin:10px;
+					margin:20px;
 					
 					
 					}
